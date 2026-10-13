@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly manage and analyze file data with this intuitive web app, designed for professionals seeking streamlined insights and enhanced productivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
